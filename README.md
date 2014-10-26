@@ -4,7 +4,7 @@
 
 
 ##Overview
-There is only one file called and it is called "run_analysis.R". The flow is mostly
+There is only one R file and it is called "run_analysis.R". The flow is mostly
 linear.
 
 
